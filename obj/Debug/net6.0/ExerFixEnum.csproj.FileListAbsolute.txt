@@ -1,0 +1,15 @@
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\ExerFixEnum.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\ExerFixEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\ExerFixEnum.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\ExerFixEnum.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\ExerFixEnum.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\bin\Debug\net6.0\ExerFixEnum.exe
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\bin\Debug\net6.0\ExerFixEnum.deps.json
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\bin\Debug\net6.0\ExerFixEnum.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\bin\Debug\net6.0\ExerFixEnum.dll
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\bin\Debug\net6.0\ExerFixEnum.pdb
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\ExerFixEnum.dll
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\refint\ExerFixEnum.dll
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\ExerFixEnum.pdb
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\ExerFixEnum.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Documentos\ExerFixEnum\obj\Debug\net6.0\ref\ExerFixEnum.dll

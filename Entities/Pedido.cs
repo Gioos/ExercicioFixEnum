@@ -1,5 +1,6 @@
 using ExerFixEnum.Entities.Enums;
 using System.Text;
+using System.Globalization;
 
 namespace ExerFixEnum.Entities
 {
@@ -48,7 +49,7 @@ namespace ExerFixEnum.Entities
              foreach (ItensPedido itens in Itens){
                 sbPedido.AppendLine(itens.ToString());
              }
-             sbPedido.AppendLine("Valor total: r$ " + Total().ToString("F2, CultureInfo.InvariantCulture"));
+             sbPedido.AppendLine("Valor total: r$ " + Total().ToString("F2", CultureInfo.InvariantCulture));
 
              return sbPedido.ToString();
         }

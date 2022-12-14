@@ -17,7 +17,7 @@ namespace ExerFixEnum.Entities
         public override string ToString()
         {
             return NomeCliente 
-                + ", (" 
+                + " (" 
                 + DataNascimento.ToString("dd/MM/yyyy") 
                 + ") - " 
                 + Email;

@@ -25,8 +25,6 @@ namespace ExerFixEnum.Entities
             return Produto!.NomeProduto + ", r$" + Preco.ToString("F2", CultureInfo.InvariantCulture)
             +", Quantidade: " + Quantidade + ", Subtotal: r$ "
             + SubTotal().ToString("F2", CultureInfo.InvariantCulture); 
-        }
-            
-        
+        } 
     }
 }
